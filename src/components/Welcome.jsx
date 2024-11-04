@@ -112,26 +112,20 @@ function Welcome() {
             </i>
           </h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+          In this website discover the rich cultural tapestry and ancient heritage of Sindh!
+          Our platform is designed to guide you through Sindh's most iconic 
+          and historically significant sites, from the ancient ruins of Mohenjo-Daro
+          to the grand Makli Necropolis. Whether you’re a local explorer or 
+          a world traveler, this site offers all the insights, travel tips,
+          and detailed information you need to fully appreciate the history, 
+          architecture, and unique beauty of each landmark.
           </p>
           <Divider />
           <p style={{ textAlign: "center" }}>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit unde
-            cumque molestias quam nostrum minima libero voluptatibus adipisci
-            perferendis recusandae dolor commodi maiores, asperiores ad
-            molestiae at pariatur sed?
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Reprehenderit quas laborum ipsam officiis. Repudiandae cupiditate
-            velit, incidunt omnis obcaecati error nam aliquam tempore in rem
-            fugiat? Voluptate doloribus fugiat repellat.
+          With interactive maps, stunning image galleries, and comprehensive
+          site details, we make it easy to plan your journey. Dive into Sindh’s
+          past and experience its vibrant heritage firsthand. Start exploring,
+          and let us be your guide to the wonders of Sindh.
           </p>
 
           <p>
