@@ -149,8 +149,8 @@ function Welcome() {
           with no prior knowledge or experience travelling and going out on
           trips.​ ​ Our Project aims at solving this problem, by creating a ​
           website that gives a detailed overview regarding all the​ famous and
-          well-known tourist locations in India. Any ​ person shall be able to
-          open the site and simply choose a ​ state or city they would like to
+          well-known tourist locations in Sindh. Any ​ person shall be able to
+          open the site and simply choose a ​ city they would like to
           visit and our website shall ​ provide them with details of the famous
           locations and ​ sites that are worth visiting in that place. ​
         </div>
@@ -159,7 +159,7 @@ function Welcome() {
         <h2 className="mainHeadings">&nbsp;&nbsp;A guide to our Guide</h2>
         <div className="project_desc guide_desc">
           Feel Free to explore and look for the places you are most eager to
-          visit . You can choose places based on states or the places directly.
+          visit . You can choose places based on city's or the places directly.
           To get started you will have to sign in first, click the button below
           to be redirected to the sign in page, you can also create an account
           if you dont have one already.
@@ -177,7 +177,7 @@ function Welcome() {
           You will then be redirected to the home page from where you can choose
           our destinations and view wonderful places to visit and travel to. We
           sure do we hope we help you tick off your bucket list of places to
-          visit in India.
+          visit in Sindh.
         </div>
       </div>
       <div id="contact">
