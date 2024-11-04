@@ -4,7 +4,7 @@ import TitlebarBelowImageList from "./TitleBarBelowImageList";
 
 function StatePage(props) {
   return (
-    <div className="karnataka">
+    <div className="Sindh">
       <div className="state-container">
         <img className="state-image" src={props.stateImage} alt="" />
         <div className="state-heading">
