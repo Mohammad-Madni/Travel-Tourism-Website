@@ -13,7 +13,7 @@ import Places from "./components/Places";
 import SavedPlaces from "./components/SavedPlaces";
 import Rajasthan from "./components/States/Rajasthan";
 import UttarPradesh from "./components/States/UttarPradesh";
-import Goa from "./components/States/Goa";
+import Larkana from "./components/States/Larkana";
 import Maharashtra from "./components/States/Maharashtra";
 import HimachalPradesh from "./components/States/HimachalPradesh";
 import Footer from "./components/Footer";
@@ -55,7 +55,7 @@ function App() {
               <Footer />
             </Route>
             <Route exact path={"/home/goa"}>
-              <Goa />
+              <Larkana />
               <Footer />
             </Route>
             <Route exact path={"/home/maharashtra"}>
