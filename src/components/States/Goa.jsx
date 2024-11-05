@@ -2,16 +2,16 @@ import React from "react";
 import StatePage from "../StatePage";
 import "../styles/StatePage.css";
 
-function Goa() {
-  const name = "Goa";
+function Larkana() {
+  const name = "Larkana";
   const image =
-    "https://im.indiatimes.in/content/2021/Aug/Goa-copy_61150ebf21bc6.jpg?w=1092&h=558&cc=1";
+    "https://as1.ftcdn.net/v2/jpg/09/09/92/72/1000_F_909927270_ku8rHDFsNgltCz9M8oexXFWcZ0HTA101.jpg";
 
   const visitLocationsData = [
     {
       name: "place name",
       image:
-        "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "https://as1.ftcdn.net/v2/jpg/09/09/92/72/1000_F_909927270_ku8rHDFsNgltCz9M8oexXFWcZ0HTA101.jpg",
       desc: "Description of the place",
     },
   ];
@@ -40,4 +40,4 @@ function Goa() {
   );
 }
 
-export default Goa;
+export default Larkana;
