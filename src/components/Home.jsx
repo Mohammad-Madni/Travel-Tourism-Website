@@ -43,7 +43,7 @@ function Home() {
             Once deciding to go out on a trip planning one can be quite tricky 
             and overwhelming in some cases, especially for people with no prior
             knowledge or experience travelling and going out for a trip.​
-            <br /> ​ Our Project aims at solving this problem, by creating a ​
+            <br />Our Project aims at solving this problem, by creating a ​
             website that gives a detailed overview regarding all the​ famous and
             well-known tourist locations in Sindh. Any ​ person shall be able to
             open the site and simply choose a city they would like to
@@ -89,11 +89,11 @@ function Home() {
           />
           <Card
             photoUrl={
-              "https://media.istockphoto.com/photos/one-of-the-best-beaches-in-goa-cola-beach-picture-id857389362?b=1&k=20&m=857389362&s=170667a&w=0&h=px0EbbF8Ap96U3Zb7KbUGH2XrRfs47tiGwQSG6FhJmU="
+              "https://as2.ftcdn.net/v2/jpg/09/09/92/75/1000_F_909927545_hNTqA4mo0nbOnNx7byoEtGGa2qXOn6yD.jpg"
             }
-            name={"Goa"}
+            name={"Larkana"}
             description={
-              "A kaleidoscopic blend of Indian and Portuguese cultures, sweetened with sun, sea, sand, seafood, susegad and spirituality, Goa is India's pocket-sized paradise."
+              "Larkana is a historic city in Sindh, renowned for its rich cultural heritage and as the gateway to the ancient Indus Valley site of Mohenjo-Daro. It reflects a blend of ancient traditions and vibrant local culture."
             }
             key={Math.random()}
           />
