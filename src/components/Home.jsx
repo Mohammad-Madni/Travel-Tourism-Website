@@ -59,11 +59,11 @@ function Home() {
           <div className="filler2"></div>
           <Card
             photoUrl={
-              "https://media.istockphoto.com/photos/jog-falls-during-monsoon-picture-id950777136?b=1&k=20&m=950777136&s=170667a&w=0&h=g6MnlTHZqcQCGe2o6eZ_mDiD57g7cQ35-EyqVGTXR10="
+              "https://preview.redd.it/6xl3fgbqf7r71.jpg?width=1080&crop=smart&auto=webp&s=be1b299df60eba703b97cfef281a95bea12ea61b"
             }
-            name={"Karnataka"}
+            name={"Khairpur"}
             description={
-              "A stunning introduction to southern India, Karnataka is a prosperous, compelling state loaded with a winning blend of urban cool, glittering palaces, national parks, ancient ruins, beaches, yoga centres and legendary travelers' hang-outs."
+              "Khairpur is a historic city in Sindh, celebrated for its royal palaces, rich Sufi heritage, and the stunning architecture of the Khairpur State era. It is known for its cultural significance and the lush dates."
             }
             key={Math.random()}
           />

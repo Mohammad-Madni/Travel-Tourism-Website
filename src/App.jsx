@@ -46,8 +46,8 @@ function App() {
               <Kerala />
               <Footer />
             </Route>
-            <Route exact path={"/home/khairpur"}>
-              <Karnataka />
+            <Route exact path={"/home/Khairpur"}>
+              <Khairpur />
               <Footer />
             </Route>
             <Route exact path={"/home/uttar pradesh"}>
