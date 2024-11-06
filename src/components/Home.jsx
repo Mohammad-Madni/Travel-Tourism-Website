@@ -69,11 +69,11 @@ function Home() {
           />
           <Card
             photoUrl={
-              "https://media.istockphoto.com/photos/scenic-view-of-boats-under-a-blue-sky-in-backwaters-situated-in-town-picture-id1246366598?b=1&k=20&m=1246366598&s=170667a&w=0&h=WnyPe13pcLzsCg43ZZxjyeUUWDApxmogyftBv8ZV5F4="
+              "https://res.cloudinary.com/www-travelpakistani-com/image/upload/w_900,h_360,c_fill,g_auto,q_30,dpr_1.0,f_auto/blogs/trkr2fcamtcthvs7pi2o.webp"
             }
-            name={"Kerala"}
+            name={"Dadu"}
             description={
-              "Kerala is a world away from the hectic action of the rest of India, its long, fascinating backstory illuminated by historically evocative cities like Kochi (Cochin) and Thiruvananthapuram (Trivandrum)"
+              "Dadu, is known for its rich cultural heritage and proximity to the stunning landscapes of Gorakh Hill, Sindh's only hill station. Famous for its folk traditions and historic sites, Dadu offers a blend of natural beauty and cultural depth, making it a unique destination in the province."
             }
             key={Math.random()}
           />
@@ -109,21 +109,21 @@ function Home() {
           />
           <Card
             photoUrl={
-              "https://media.istockphoto.com/photos/beautiful-hillstation-town-kalpa-in-himachal-pradeshindia-picture-id1174957369?b=1&k=20&m=1174957369&s=170667a&w=0&h=OukwviVp6idMOZH-yViq80dGrshLazUJNl1rgtb7Og8="
+              "https://www.shutterstock.com/image-photo/hyderabad-navalrai-market-clock-tower-260nw-1561085858.jpg"
             }
-            name={"Himachal Pradesh"}
+            name={"Hyderabad"}
             description={
-              "With spectacular snowy peaks and plunging river valleys, beautiful Himachal is India’s outdoor adventure playground. From trekking and climbing to rafting, paragliding and skiing"
+              "Hyderabad, one of Sindh’s oldest cities, is a hub of cultural heritage and industry, known for its historic sites, bustling bazaars, and vibrant Sindhi traditions. Famous for its handcrafted bangles and rich culinary flavors,"
             }
             key={Math.random()}
           />
           <Card
             photoUrl={
-              "https://media.istockphoto.com/photos/holy-town-varanasi-and-the-river-ganges-picture-id827065008?b=1&k=20&m=827065008&s=170667a&w=0&h=YjToqYIXDJUZvgVFjW8K_WSPAODbZhwRPNcO8SjGo14="
+              "https://scontent.fisb3-2.fna.fbcdn.net/v/t1.6435-9/118155790_753993272107854_4659717914789119718_n.jpg?stp=dst-jpg_p180x540&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IgThhtdQkhUQ7kNvgH59e5u&_nc_zt=23&_nc_ht=scontent.fisb3-2.fna&_nc_gid=A2SuJ--oBJnNzPQSWfILPLD&oh=00_AYA_ywIl6vXcSVawREml6-bQPw7gYeR9qeVCCLQu8rAUfg&oe=67531885"
             }
-            name={"Uttar Pradesh"}
+            name={"Umarkot"}
             description={
-              "There are few states more quintessentially Indian than Uttar Pradesh. The subcontinent's historic and religious roots – Hindu, Buddhist, Islamic and secular – intertwine in this land of sacred rivers and vast plains, manifesting in sights of profound importance."
+              "Umarkot, a historic city is celebrated as the birthplace of the Mughal Emperor Akbar and is known for its ancient fort, rich folklore, and vibrant Hindu-Muslim cultural blend. This city embodies a unique heritage, drawing visitors to its architectural landmarks and traditional festivals."
             }
             key={Math.random()}
           />

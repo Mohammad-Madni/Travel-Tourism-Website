@@ -7,18 +7,19 @@ import Profile from "./components/Profile";
 import ResponsiveAppBar from "./components/Navbar";
 import Register from "./components/Register";
 import Khairpur from "./components/States/Khairpur.jsx";
-import Kerala from "./components/States/Kerala.jsx";
+import Dadu from "./components/States/Dadu.jsx";
 import PlaceRoutes from "./routes/PlaceRoutes.jsx";
 import Places from "./components/Places";
 import SavedPlaces from "./components/SavedPlaces";
 import Rajasthan from "./components/States/Rajasthan";
-import UttarPradesh from "./components/States/UttarPradesh";
+import Umarkot from "./components/States/Umarkot.jsx";
 import Larkana from "./components/States/Larkana";
 import Maharashtra from "./components/States/Maharashtra";
-import HimachalPradesh from "./components/States/HimachalPradesh";
+import Hyderabad from "./components/States/Hyderabad.jsx";
 import Footer from "./components/Footer";
 import TestRegister from "./components/TestRegister";
 import Map from "./components/Map";
+//import Umarkot from "./components/States/Umarkot.jsx";
 function App() {
   return (
     <div className="App">
@@ -42,16 +43,16 @@ function App() {
               <Rajasthan />
               <Footer />
             </Route>
-            <Route exact path={"/home/kerala"}>
-              <Kerala />
+            <Route exact path={"/home/Dadu"}>
+              <Dadu />
               <Footer />
             </Route>
             <Route exact path={"/home/Khairpur"}>
               <Khairpur />
               <Footer />
             </Route>
-            <Route exact path={"/home/uttar pradesh"}>
-              <UttarPradesh />
+            <Route exact path={"/home/Umarkot"}>
+              <Umarkot />
               <Footer />
             </Route>
             <Route exact path={"/home/Larkana"}>
@@ -62,8 +63,8 @@ function App() {
               <Maharashtra />
               <Footer />
             </Route>
-            <Route exact path={"/home/himachal pradesh"}>
-              <HimachalPradesh />
+            <Route exact path={"/home/Hyderabad"}>
+              <Hyderabad />
               <Footer />
             </Route>
           </Route>
