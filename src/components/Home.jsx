@@ -77,16 +77,7 @@ function Home() {
             }
             key={Math.random()}
           />
-          <Card
-            photoUrl={
-              "https://media.istockphoto.com/photos/mehrangharh-fort-and-jaswant-thada-mausoleum-in-jodhpur-rajasthan-picture-id805563154?b=1&k=20&m=805563154&s=170667a&w=0&h=o_qAAzJKWXDTzXmpy0hdDIF0pfM2ERsMFu_X_umO4lI="
-            }
-            name={"Rajasthan"}
-            description={
-              "Here is India's archetypal land of maharajas and medieval forts, palaces and tigers, and kaleidoscopic festivals. Rajasthan really is the jewel in India's crown."
-            }
-            key={Math.random()}
-          />
+          
           <Card
             photoUrl={
               "https://as2.ftcdn.net/v2/jpg/09/09/92/75/1000_F_909927545_hNTqA4mo0nbOnNx7byoEtGGa2qXOn6yD.jpg"
@@ -97,16 +88,7 @@ function Home() {
             }
             key={Math.random()}
           />
-          <Card
-            photoUrl={
-              "https://static-blog.treebo.com/wp-content/uploads/2018/06/Punjab.jpg"
-            }
-            name={"Punjab"}
-            description={
-              "A particularly tourist-friendly region, thanks to its strong expatriate connections with the UK and Canada, Punjab, the homeland of India’s Sikh population, provides a wonderful opportunity to go traipsing into the backyards of North India"
-            }
-            key={Math.random()}
-          />
+
           <Card
             photoUrl={
               "https://www.shutterstock.com/image-photo/hyderabad-navalrai-market-clock-tower-260nw-1561085858.jpg"
@@ -127,16 +109,7 @@ function Home() {
             }
             key={Math.random()}
           />
-          <Card
-            photoUrl={
-              "https://static.india.com/wp-content/uploads/2018/08/maharashtra-1.jpg"
-            }
-            name={"Maharashtra"}
-            description={
-              "India’s third-largest and second-most populous state, Maharashtra is an expansive canvas showcasing many of India’s iconic attractions. In the far east of the state are some of the nation’s most impressive national parks, including Tadoba-Andhari Tiger Reserve."
-            }
-            key={Math.random()}
-          />
+
         </div>
       </div>
     );

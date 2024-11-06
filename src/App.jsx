@@ -11,15 +11,12 @@ import Dadu from "./components/States/Dadu.jsx";
 import PlaceRoutes from "./routes/PlaceRoutes.jsx";
 import Places from "./components/Places";
 import SavedPlaces from "./components/SavedPlaces";
-import Rajasthan from "./components/States/Rajasthan";
 import Umarkot from "./components/States/Umarkot.jsx";
 import Larkana from "./components/States/Larkana";
-import Maharashtra from "./components/States/Maharashtra";
 import Hyderabad from "./components/States/Hyderabad.jsx";
 import Footer from "./components/Footer";
 import TestRegister from "./components/TestRegister";
 import Map from "./components/Map";
-//import Umarkot from "./components/States/Umarkot.jsx";
 function App() {
   return (
     <div className="App">
@@ -39,10 +36,7 @@ function App() {
               <Home />
               <Footer />
             </Route>
-            <Route exact path={"/home/rajasthan"}>
-              <Rajasthan />
-              <Footer />
-            </Route>
+
             <Route exact path={"/home/Dadu"}>
               <Dadu />
               <Footer />
@@ -59,10 +53,7 @@ function App() {
               <Larkana />
               <Footer />
             </Route>
-            <Route exact path={"/home/maharashtra"}>
-              <Maharashtra />
-              <Footer />
-            </Route>
+            
             <Route exact path={"/home/Hyderabad"}>
               <Hyderabad />
               <Footer />
