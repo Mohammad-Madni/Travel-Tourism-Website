@@ -6,7 +6,7 @@ import Welcome from "./components/Welcome";
 import Profile from "./components/Profile";
 import ResponsiveAppBar from "./components/Navbar";
 import Register from "./components/Register";
-import Karnataka from "./components/States/Karnataka.jsx";
+import Khairpur from "./components/States/Khairpur.jsx";
 import Kerala from "./components/States/Kerala.jsx";
 import PlaceRoutes from "./routes/PlaceRoutes.jsx";
 import Places from "./components/Places";
@@ -46,7 +46,7 @@ function App() {
               <Kerala />
               <Footer />
             </Route>
-            <Route exact path={"/home/karnataka"}>
+            <Route exact path={"/home/khairpur"}>
               <Karnataka />
               <Footer />
             </Route>
@@ -54,7 +54,7 @@ function App() {
               <UttarPradesh />
               <Footer />
             </Route>
-            <Route exact path={"/home/goa"}>
+            <Route exact path={"/home/Larkana"}>
               <Larkana />
               <Footer />
             </Route>
