@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Varnasi from "../components/Places/Varnasi";
 import TajMahal from "../components/Places/TajMahal";
-import ElloraCaves from "../components/Places/ElloraCaves";
+import ElloraCaves from "../components/Places/";
 import Faizmahal from "../components/Places/Faizmahal";
 import Shimla from "../components/Places/Shimla";
 import {
@@ -13,6 +13,7 @@ import {
   Munnar,
   RedFort,
 } from "../components/Places/PlacesComponent";
+import Kotdiji from "../components/Places/Kotdiji";
 
 function PlaceRoutes() {
   return (
@@ -25,10 +26,10 @@ function PlaceRoutes() {
           <Route exact path="/places/varnasi">
             <Varnasi />
           </Route>
-          <Route exact path="/places/ellora caves">
-            <ElloraCaves />
+          <Route exact path="/places/kot diji fort">
+            <Kotdiji />
           </Route>
-          <Route exact path="/places/Faizmahal">
+          <Route exact path="/places/faizmahal">
             <Faizmahal />
           </Route>
           <Route exact path="/places/shimla">
