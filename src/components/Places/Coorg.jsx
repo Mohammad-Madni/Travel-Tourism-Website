@@ -1,15 +1,15 @@
 import React from "react";
 import PlacePage from "../PlacePage";
 
-export default function Coorg() {
+export default function Faizmahal() {
   const images = [
-    "https://i.ytimg.com/vi/P_zQFDEXu_4/maxresdefault.jpg",
-    "https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1502167260/Hotel/Coorg/00009869/TheTamaraCoorg-exterior-view-of-cottages_qyMNqR.jpg",
-    "https://www.tourmyindia.com/blog//wp-content/uploads/2015/11/best-things-to-do-in-coorg.jpg",
+    "http://heritage.eftsindh.com/sites/khairpur/images/thumb_faiz-mahal-02.jpg",
+    "http://heritage.eftsindh.com/sites/khairpur/images/thumb_faiz-mahal-03.jpg",
+    "http://heritage.eftsindh.com/sites/khairpur/images/thumb_faiz-mahal-05.jpg",
   ];
-  const placeName = "Coorg";
-  const stateName = "Karnataka";
-  const placeImage = "https://static.toiimg.com/photo/48466026.cms";
+  const placeName = "Faiz Mahal";
+  const stateName = "Khairpur";
+  const placeImage = "https://heritage.eftsindh.com/sites/khairpur/images/faiz-mahal-01.jpg";
   return (
     <div>
       <PlacePage
