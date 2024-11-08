@@ -5,6 +5,7 @@ import TajMahal from "../components/Places/TajMahal";
 import ElloraCaves from "../components/Places/";
 import Faizmahal from "../components/Places/Faizmahal";
 import Shimla from "../components/Places/Shimla";
+import Kotdiji from "../components/Places/Kotdiji";
 import {
   AmberFort,
   CityPalace,
@@ -13,7 +14,7 @@ import {
   Munnar,
   RedFort,
 } from "../components/Places/PlacesComponent";
-import Kotdiji from "../components/Places/Kotdiji";
+
 
 function PlaceRoutes() {
   return (
@@ -26,7 +27,7 @@ function PlaceRoutes() {
           <Route exact path="/places/varnasi">
             <Varnasi />
           </Route>
-          <Route exact path="/places/kot diji fort">
+          <Route exact path="/places/kotdiji">
             <Kotdiji />
           </Route>
           <Route exact path="/places/faizmahal">
