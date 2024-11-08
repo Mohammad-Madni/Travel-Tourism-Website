@@ -18,14 +18,12 @@ export default function Faizmahal() {
         stateName={stateName}
         placeDesc={
           <div className="place__desc">
-            Nestled amid evergreen hills that line the southernmost edge of
-            Karnataka is the luscious Kodagu (Coorg) region, gifted with emerald
-            landscapes and hectares of plantations. A major centre for coffee
-            and spice production, this rural expanse is also home to the Kodava
-            people, who are divided into 1000 clans. The uneven terrain and cool
-            climate make it a fantastic area for trekking, birdwatching or
-            lazily ambling down little-trodden paths winding around carpeted
-            hills. All in all, Kodagu is rejuvenation guaranteed
+            Faiz Mahal, located in Khairpur, Sindh, is a stunning
+            18th-century palace built by the Talpur Mirs as a symbol
+            of royal grandeur and architectural elegance. Known for
+            its intricate design and lush gardens, the palace reflects
+            the rich history and cultural heritage of the Khairpur State,
+            making it a significant landmark in Sindh.
           </div>
         }
         imagesUrl={images}

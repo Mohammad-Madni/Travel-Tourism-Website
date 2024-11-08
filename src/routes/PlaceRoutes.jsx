@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Varnasi from "../components/Places/Varnasi";
 import TajMahal from "../components/Places/TajMahal";
 import ElloraCaves from "../components/Places/ElloraCaves";
-import Coorg from "../components/Places/Coorg";
+import Faizmahal from "../components/Places/Faizmahal";
 import Shimla from "../components/Places/Shimla";
 import {
   AmberFort,
@@ -28,8 +28,8 @@ function PlaceRoutes() {
           <Route exact path="/places/ellora caves">
             <ElloraCaves />
           </Route>
-          <Route exact path="/places/coorg">
-            <Coorg />
+          <Route exact path="/places/Faizmahal">
+            <Faizmahal />
           </Route>
           <Route exact path="/places/shimla">
             <Shimla />
