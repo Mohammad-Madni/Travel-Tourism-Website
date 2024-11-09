@@ -7,11 +7,11 @@ const PlacesJSON = [
             "https://heritage.eftsindh.com/sites/khairpur/images/faiz-mahal-01.jpg",
     },
     {
-        name: "Varnasi",
+        name: "Kot Diji",
         description:
-            "Varnasi is a hill station in the Indian state of Kerala. It is located in the Varnasi district of the state of Kerala. It is the administrative headquarters of the Varnasi district. Varnasi is a hill station in the Indian state of Kerala. It is located in the Varnasi district of the state of Kerala. It is the administrative headquarters of the Varnasi district.",
+            "Kot Diji Fort, located near Khairpur in Sindh, Pakistan, is a historic fortification built by the Talpur dynasty in the 18th century. Known for its strategic hilltop position and robust structure, the fort exemplifies ancient military architecture and offers panoramic views, standing as a symbol of Sindh’s rich historical and cultural legacy.",
         image:
-            "https://www.planetware.com/wpimages/2020/02/india-varanasi-best-places-to-visit-ganges-river.jpg",
+            "https://t4.ftcdn.net/jpg/03/83/14/87/360_F_383148722_kKBgCNLFRbzk5Ys2ArX7da8tQ1MwpONQ.jpg",
     },
     {
         name: "Ellora Caves",
