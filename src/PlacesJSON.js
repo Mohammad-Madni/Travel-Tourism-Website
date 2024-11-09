@@ -1,10 +1,10 @@
 const PlacesJSON = [
     {
-        name: "Taj Mahal",
+        name: "Faiz Mahal",
         description:
-            "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal.",
+            "Faiz Mahal, located in Khairpur, Sindh, is a stunning 18th-century palace built by the Talpur Mirs as a symbol of royal grandeur and architectural elegance. Known for its intricate design and lush gardens, the palace reflects the rich history and cultural heritage of the Khairpur State, making it a significant landmark in Sindh.",
         image:
-            "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&w=1000&q=80",
+            "https://heritage.eftsindh.com/sites/khairpur/images/faiz-mahal-01.jpg",
     },
     {
         name: "Varnasi",
