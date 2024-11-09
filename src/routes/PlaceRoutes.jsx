@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Varnasi from "../components/Places/Varnasi";
 import TajMahal from "../components/Places/TajMahal";
-import ElloraCaves from "../components/Places/";
 import Faizmahal from "../components/Places/Faizmahal";
 import Shimla from "../components/Places/Shimla";
 import Kotdiji from "../components/Places/Kotdiji";

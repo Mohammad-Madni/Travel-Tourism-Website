@@ -3,7 +3,7 @@ import PlacePage from "../PlacePage";
 
 export default function Kotdiji() {
   const images = [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChzLOElHugGTPOc8ansu7B-bsU1curI61Lw&s",
+    
     "https://img.freepik.com/premium-photo/kot-diji-fort-fortress-ahmadabad-khairpur-district-pakistan_134785-18665.jpg",
     "https://t3.ftcdn.net/jpg/05/06/36/04/360_F_506360495_D56kLjbc4QE2PGra2BElUKjHpsFGv8Wt.jpg",
   ];
