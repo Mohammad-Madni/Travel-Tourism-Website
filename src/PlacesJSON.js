@@ -35,11 +35,11 @@ const PlacesJSON = [
             "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQU1o3yJsq0Vm9rbm5efHy4PkGTEXwxgVJXNzOJyaMm4AUzu0w0HS_3hPxQrMlgXZ-uKRMvq1mm1V63lf_L134bOlnuGewmC3UuUP4FMg",
     },
     {
-        name: "Munnar",
+        name: "Shrine of Rozay Dhani",
         description:
-            "The rolling hills around Munnar, South India's largest tea-growing region, are carpeted in emerald-green tea plantations, contoured, clipped and sculpted like ornamental hedges.",
+            "Shrine of Hazrat Pir Muhamad Rashid Rozay Dhani Known as Roze Dhani, and is considered a 37st-generation direct descendant of the Islamic prophet Muhammad, actively promoting the Tarīqat and Shari'ah system.",
         image:
-            "https://img.traveltriangle.com/blog/wp-content/uploads/2019/11/Munnar-In-December-cover_22nd-Nov.jpg",
+            "https://live.staticflickr.com/5558/14464248757_cdc7486e53_b.jpg",
     },
     {
         name: "Manali",
