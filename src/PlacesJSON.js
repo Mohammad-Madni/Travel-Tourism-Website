@@ -42,11 +42,11 @@ const PlacesJSON = [
             "https://live.staticflickr.com/5558/14464248757_cdc7486e53_b.jpg",
     },
     {
-        name: "Manali",
+        name: "Sukkur Barrage",
         description:
-            "With mountain adventures beckoning from all directions, Manali is a year-round magnet",
+            "Sukkur Barrage is a barrage on the River Indus near the city of Sukkur in the Sindh province of Pakistan. The barrage was built during the British Raj from 1923 to 1932 and was named Lloyd Barrage",
         image:
-            "https://www.adotrip.com/public/images/city/master_images/60fea3d330d04-Manali_in_Himachal_Pradesh.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/70/Rohri.jpg",
     },
     {
         name: "Amber Fort",
