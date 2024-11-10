@@ -28,11 +28,11 @@ const PlacesJSON = [
             "https://thumbs.dreamstime.com/b/larkana-mohenjo-daro-archaeological-site-larkana-mohenjo-daro-archaeological-unesco-world-heritage-view-buddhist-stupa-167707088.jpg",
     },
     {
-        name: "Shimla",
+        name: "Garhi Khuda Bakhsh",
         description:
-            "Among the top hill stations in Himachal, Shimla derives its name from 'Goddess Shyamala', an incarnation of Goddess Kali. Kali Bari Temple, Annandale, Vice Regal Lodge, Jakhu Temple / Jakhu Hill, The Mall, Tara Devi Temple, Christ Church, and Kalka - Shimla Railway are some of the best tourist places in Shimla.",
+            "Garhi Khuda Bakhsh is a village in Ratodero Taluka near Naudero, in Larkana District of Sindh province, Pakistan. It contains the family graveyard of the Bhutto family and is the burial place of Zulfiqar, Murtaza, and Benazir Bhutto, in the mausoleum. It was founded by Khuda Bakhsh Khan Bhutto.",
         image:
-            "https://static.theprint.in/wp-content/uploads/2018/10/Shimla.jpg?compress=true&quality=80&w=376&dpr=2.6",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQU1o3yJsq0Vm9rbm5efHy4PkGTEXwxgVJXNzOJyaMm4AUzu0w0HS_3hPxQrMlgXZ-uKRMvq1mm1V63lf_L134bOlnuGewmC3UuUP4FMg",
     },
     {
         name: "Munnar",
