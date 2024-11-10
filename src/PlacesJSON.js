@@ -21,11 +21,11 @@ const PlacesJSON = [
             "https://www.locallylahore.com/wp-content/uploads/aaa036e4cb16038f90e128d8e39c714f_XL.jpg",
     },
     {
-        name: "Coorg",
+        name: "Mohenjo-Daro",
         description:
-            "Coorg is a hill station in the Indian state of Kerala. It is located in the Varnasi district of the state of Kerala. It is the administrative headquarters of the Varnasi district. Coorg is a hill station in the Indian state of Kerala. It is located in the Varnasi district of the state of Kerala. It is the administrative headquarters of the Varnasi district.",
+            "Mohenjo-Daro, located in larkana, Sindh, is one of the most important archaeological sites of the ancient Indus Valley Civilization, dating back to 2500 BCE. Known for its advanced urban planning, including complex drainage systems and public baths, this UNESCO World Heritage site offers a remarkable glimpse into one of the world’s earliest urban cultures.",
         image:
-            "https://images.unsplash.com/flagged/photo-1592544858330-7ac10a0468e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29vcmd8ZW58MHx8MHx8&w=1000&q=80",
+            "https://thumbs.dreamstime.com/b/larkana-mohenjo-daro-archaeological-site-larkana-mohenjo-daro-archaeological-unesco-world-heritage-view-buddhist-stupa-167707088.jpg",
     },
     {
         name: "Shimla",
