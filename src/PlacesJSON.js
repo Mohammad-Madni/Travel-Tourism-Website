@@ -14,11 +14,11 @@ const PlacesJSON = [
             "https://t4.ftcdn.net/jpg/03/83/14/87/360_F_383148722_kKBgCNLFRbzk5Ys2ArX7da8tQ1MwpONQ.jpg",
     },
     {
-        name: "Ellora Caves",
+        name: "Sachal Sarmast Shrine",
         description:
-            "Ellora Caves is a cave system located in the Ellora region of Kerala, India. It is a part of the Ellora National Park, a UNESCO World Heritage Site. The caves are located in the Ellora National Park, a UNESCO World Heritage Site. The caves are located in the Ellora National Park, a UNESCO World Heritage Site.",
+            "The shrine of Sachal Sarmast, located in khairpur, Sindh, is dedicated to the revered Sufi poet and philosopher known for his messages of love, harmony, and spiritual wisdom. This sacred site attracts visitors and devotees who come to honor his legacy, reflecting Sindh’s deep-rooted Sufi traditions and its embrace of cultural unity.",
         image:
-            "https://assets.suitcasemag.com/images/hero_mobile/246729-india-ellora-caves.jpg",
+            "https://www.locallylahore.com/wp-content/uploads/aaa036e4cb16038f90e128d8e39c714f_XL.jpg",
     },
     {
         name: "Coorg",
