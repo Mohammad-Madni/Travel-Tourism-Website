@@ -49,11 +49,11 @@ const PlacesJSON = [
             "https://upload.wikimedia.org/wikipedia/commons/7/70/Rohri.jpg",
     },
     {
-        name: "Amber Fort",
+        name: "Gorakh Hill Station",
         description:
-            "Amer Fort or Amber Fort is a fort located in Amer, Rajasthan, India.This palace, along with Jaigarh Fort, is located immediately above on the Cheel ka Teela (Hill of Eagles) of the same Aravalli range of hills",
+            "Gorakh Hill, located in the Kirthar Mountains of Dadu, Sindh, is a picturesque hill station and popular tourist destination, often called the 'Murree of Sindh'. At an altitude of 5,688 feet, it offers cool weather, breathtaking views, and unique landscapes, making it a perfect escape for nature enthusiasts and adventure seekers.",
         image:
-            "https://camo.githubusercontent.com/1cd2de51e0807765e59967fdc0e0ba7cfbbe0d246830f7bca55112f7b6ee8c68/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31622f416d6265725f466f72745f2532382545302541342538362545302541342541452545302541352538372545302541342542305f2545302541342539352545302541342542455f2545302541342539352545302541342542462545302541342542322545302541342542455f2532392e6a70672f3235363070782d416d6265725f466f72745f2532382545302541342538362545302541342541452545302541352538372545302541342542305f2545302541342539352545302541342542455f2545302541342539352545302541342542462545302541342542322545302541342542455f2532392e6a7067",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT--YzE3oZJmfMtz-B3yBaor_FkOIyb8jU2VzuTkcq7JJDEruvUrQeirkvzESLEnoggO-hgyfsWPAoMlLXu8aJJ2_YATxBp_jos6LX7Fw",
     },
     {
         name: "Hawa Palace",
