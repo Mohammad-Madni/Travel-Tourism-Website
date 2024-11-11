@@ -56,11 +56,11 @@ const PlacesJSON = [
             "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT--YzE3oZJmfMtz-B3yBaor_FkOIyb8jU2VzuTkcq7JJDEruvUrQeirkvzESLEnoggO-hgyfsWPAoMlLXu8aJJ2_YATxBp_jos6LX7Fw",
     },
     {
-        name: "Hawa Palace",
+        name: "Jamia Mosque Khudabad",
         description:
-            "The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, the palace sits on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers.",
+            "Jamia Mosque Khudabad, located in Dadu, Sindh, is an architectural marvel from the Mughal era, known for its intricate tile work and striking design. Built in the 18th century, the mosque reflects the region's rich artistic heritage and stands as a testament to Sindh’s historical and cultural depth.",
         image:
-            "https://camo.githubusercontent.com/00778eb20156deb728e1ce45ae6acc2a18a0d55f047e1e9d05c64fed7da9ded3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62342f32303139313231385f506125433525383261635f5769617472254333254233775f775f4a61697075727a655f313132395f393132342e6a70672f3235363070782d32303139313231385f506125433525383261635f5769617472254333254233775f775f4a61697075727a655f313132395f393132342e6a7067",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Back_View_from_Main_Road_-_Jamia_Mosque_%28Khudabad%29.jpg/180px-Back_View_from_Main_Road_-_Jamia_Mosque_%28Khudabad%29.jpg",
     },
     {
         name: "Red Fort",
