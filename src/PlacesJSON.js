@@ -77,9 +77,9 @@ const PlacesJSON = [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfG7kVQqe3TIKrgdyla58EPuzX695IYXJIUQ&s",
     },
     {
-        name: "Qutub Minar",
+        name: "Lal Shahbaz Qalandar",
         description:
-            "The Gateway of India is an arch-monument built in the early 20th century in the city of Mumbai, India. It was erected to commemorate the landing of King-Emperor George V",
+            "Usman Marwandi, popularly known as Lal Shahbaz Qalandar, was a Sufi saint and poet who is revered in South Asia. Born in Marwand, Sistan, Lal Shahbaz Qalandar eventually settled in Sindh and is revered by the local Sindhi population.",
         image:
             "https://camo.githubusercontent.com/7a6af6a289f765e5937bfc4aa107cde8e402d4541baaf0447b85cc44dc9f565f/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525030686756684a6f516b50483846616566333252646553464f37456568366843637a7739797a325a63355f4e76523373615a5176415f46424b597939784d595050416f54586d7a6f7135434c7835325f7a4e4b72683541",
     },
