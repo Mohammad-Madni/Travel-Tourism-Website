@@ -84,13 +84,15 @@ const PlacesJSON = [
             "https://camo.githubusercontent.com/7a6af6a289f765e5937bfc4aa107cde8e402d4541baaf0447b85cc44dc9f565f/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525030686756684a6f516b50483846616566333252646553464f37456568366843637a7739797a325a63355f4e76523373615a5176415f46424b597939784d595050416f54586d7a6f7135434c7835325f7a4e4b72683541",
     },
     {
-        name: "Humayun's Tomb",
+        name: "Mukhi House",
         description:
-            "Humayun's tomb (Hindustani or Urdu: Maqbara-i Humayun) is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun's chief consort, Empress Bega Begum ",
+            "The Mukhi House or Mukhi mahal, in reality, is like a castle which is one of the historic buildings in Hyderabad Sindh which is a beautiful example of arcticture art was built around 1921 by an influential Hindu Sindhi family famously known as JETHA NAND MUKHI, it is an eye-catching building which was under the supervision of the department of archaeology,",
         image:
-            "https://camo.githubusercontent.com/130b7223601884ed3cb88398575386bb4b08950081ce6bf0420cd02f9ff03aad/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64322f546f6d625f6f665f48756d6179756e2532435f44656c68692e6a70672f3238383070782d546f6d625f6f665f48756d6179756e2532435f44656c68692e6a7067",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQGrR_8iiPVy4Z0sTohGRgEh2rpCTRjW6-OuFBUKeUJ865yEZpoNZy0xcX&s",
     },
-    { name: "Lotus Temple", description: "The magnificent Bahá'í House of Worship, also known as the Lotus Temple due to its nine sides and stunning central dome, is an architectural masterpiece. Constructed of white concrete and marble, the entire structure looks as delicate as the flower it resembles.", image: "https://camo.githubusercontent.com/2b50983ebe5aef6b603b6d461f15dea2c9ee82c3c8c095b31394e0c18f5e0e39/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66632f4c6f74757344656c68692e6a7067" },
+    { name: "Pacco Qillo",
+      description: "Pakko Qillo (Strong Fort) is a fort in Hyderabad, Sindh. It was built in the 18th century, and served as a strategic military base and played a crucial role in the city's history.", 
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pakka_Qila_view3.JPG/300px-Pakka_Qila_view3.JPG" },
     {
         name: "Bandipur National Park",
         description: "Get as close as you can to natural wildlife in Bandipur National Park. Perfect haven for animal lovers who want to get engrossed in the sights and sounds of the forest. Do not miss the Tiger Reserve and the Bird Sanctuary of the national park. The rich fauna and flora in the reserve will leave you asking for more. It is a perfect choice for a day picnic. Some of the wildlife you can spot here are elephants, the spotted deer, antelopes",
