@@ -111,35 +111,24 @@ const PlacesJSON = [
     },
     {
         name: "Moomal Ji Mari",
-        description: "Moomal Ji Mari is an archaeological site in a village near Mirpur Mathelo in the Ghotki District of Sindh, Pakistan. It is located on a high mound at a distance of 8 km from Ghotki city, and is surrounded by a fort or fortress. The site is spread over an area of 3 acres.",
+        description: "Moomal Ji Mari is an archaeological site in a village near Mirpur Mathelo in the Ghotki District of Sindh. It is located on a high mound at a distance of 8 km from Ghotki city, and is surrounded by a fort or fortress. The site is spread over an area of 3 acres.",
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Momal_ji_Mari_n.jpg/330px-Momal_ji_Mari_n.jpg"
-    },
+    },    
     {
-        name: "Lonavla",
-        description: "Situated in the Sahyadri range of the Western Ghats close to Pune and Mumbai, Lonavala is the most visited hill station in Maharashtra and the place to be during monsoons",
-        image: "https://www.holidify.com/images/bgImages/LONAVALA.jpg"
-    },
+        name: "Makli Necropolis",
+        description: "Makli Necropolis is one of the largest funerary sites in the world, spread over an area of 10 kilometres near the city of Thatta, in the Pakistani province of Sindh. The site houses approximately 500,000 to 1 million tombs built over the course of a 400 year period. Makli Necropolis features several large funerary monuments belonging to royalty, various Sufi saints, and esteemed scholars. The site was inscribed as a UNESCO World Heritage Site in 1981 as an “outstanding testament” to Sindhi civilization between the 14th and 18th centuries.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/View_of_Makli_by_Usman_Ghani_%28cropped%29.jpg/450px-View_of_Makli_by_Usman_Ghani_%28cropped%29.jpg"
+    },   
     {
-        name:"Kochi",
-        description:"Situated on the southwest coast of India, Kochi or Cochin is a commercial port city with a trading history that dates back to at least 600 years. Called the Queen of the Arabian Sea, the city is Kerala's financial, commercial, and industrial capital.",
-        image:"https://irisholidays.com/keralatourism/wp-content/uploads/2013/07/kochi-image.jpg",
-    },
+        name: "Ranikot Fort",
+        description: "Ranikot Fort, also known as the Great Wall of Sindh, is a 19th-century Talpur-era fort near Sann in Jamshoro District, Sindh. The fort's ramparts have been compared to the Great Wall of China.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rani_Kort_Wall_%26_Forte_View.jpg/1200px-Rani_Kort_Wall_%26_Forte_View.jpg"
+    },  
     {
-        name:"Varkala",
-        description:"Varkala is a coastal town in the southern part of Kerala known for the unique 15m high 'Northern Cliff' adjacent to the Arabian Sea. It is popular for its hippie culture, shacks on the cliff serving great seafood and playing global music",
-        image:"https://assets.telegraphindia.com/telegraph/2022/Jan/1641658803_varkala-beach.jpg",
-    },
-    {
-        name:"Allepey",
-        description:"Officially called Alappuzha, Alleppey is the picture-perfect place known for its beautiful backwaters and the houseboats offering overnight stays. The coastline of Alleppey offers some of the best beaches in Kerala with water sports during the dry season. ",
-        image:"https://qph.cf2.quoracdn.net/main-qimg-27ff59a61a075d5f2a93134f1382f298-lq",
-    },
-    {
-        name:"",
-        description:"",
-        image:"",
-    },
-    
+        name: "Sehwan Fort",
+        description: "Sehwan Fort (or Kafir Qila) is located at Sehwan in Sindh. The Fort is said to have been built by Alexander the Great and, hence, is also sometimes known as Alexander's Fort in Sehwan. It has massive brick-work like that of Kalankot Fort in Thatta.",
+        image: "https://heritage.eftsindh.com/sites/jamshoro/images/sehwan-fort-02.jpg"
+    },  
 
 ];
 //suffle the places
