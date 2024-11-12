@@ -56,7 +56,7 @@ const PlacesJSON = [
             "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT--YzE3oZJmfMtz-B3yBaor_FkOIyb8jU2VzuTkcq7JJDEruvUrQeirkvzESLEnoggO-hgyfsWPAoMlLXu8aJJ2_YATxBp_jos6LX7Fw",
     },
     {
-        name: "Jamia Mosque Khudabad",
+        name: "Khudabad Mosque",
         description:
             "Jamia Mosque Khudabad, located in Dadu, Sindh, is an architectural marvel from the Mughal era, known for its intricate tile work and striking design. Built in the 18th century, the mosque reflects the region's rich artistic heritage and stands as a testament to Sindh’s historical and cultural depth.",
         image:
@@ -81,38 +81,38 @@ const PlacesJSON = [
         description:
             "Usman Marwandi, popularly known as Lal Shahbaz Qalandar, was a Sufi saint and poet who is revered in South Asia. Born in Marwand, Sistan, Lal Shahbaz Qalandar eventually settled in Sindh and is revered by the local Sindhi population.",
         image:
-            "https://camo.githubusercontent.com/7a6af6a289f765e5937bfc4aa107cde8e402d4541baaf0447b85cc44dc9f565f/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525030686756684a6f516b50483846616566333252646553464f37456568366843637a7739797a325a63355f4e76523373615a5176415f46424b597939784d595050416f54586d7a6f7135434c7835325f7a4e4b72683541",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Shrine_Lal_Shahbaz_Qalandar%2C_Sehwan_Shareef%2C_Sindh%2C_Pakistan.jpg/330px-Shrine_Lal_Shahbaz_Qalandar%2C_Sehwan_Shareef%2C_Sindh%2C_Pakistan.jpg",
     },
     {
         name: "Mukhi House",
         description:
             "The Mukhi House or Mukhi mahal, in reality, is like a castle which is one of the historic buildings in Hyderabad Sindh which is a beautiful example of arcticture art was built around 1921 by an influential Hindu Sindhi family famously known as JETHA NAND MUKHI, it is an eye-catching building which was under the supervision of the department of archaeology,",
         image:
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQGrR_8iiPVy4Z0sTohGRgEh2rpCTRjW6-OuFBUKeUJ865yEZpoNZy0xcX&s",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Front_entrance_facade_-_Mukhi_Mahal.jpg/375px-Front_entrance_facade_-_Mukhi_Mahal.jpg",
     },
     { name: "Pacco Qillo",
       description: "Pakko Qillo (Strong Fort) is a fort in Hyderabad, Sindh. It was built in the 18th century, and served as a strategic military base and played a crucial role in the city's history.", 
       image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pakka_Qila_view3.JPG/300px-Pakka_Qila_view3.JPG" },
     {
-        name: "Bandipur National Park",
-        description: "Get as close as you can to natural wildlife in Bandipur National Park. Perfect haven for animal lovers who want to get engrossed in the sights and sounds of the forest. Do not miss the Tiger Reserve and the Bird Sanctuary of the national park. The rich fauna and flora in the reserve will leave you asking for more. It is a perfect choice for a day picnic. Some of the wildlife you can spot here are elephants, the spotted deer, antelopes",
-        image: "https://static.india.com/wp-content/uploads/2019/02/Bandipur-National-Park.jpg?impolicy=Medium_Resize&w=1200&h=800"
+        name: "Sindh Museum",
+        description: "The Sindh Museum is a museum located in Hyderabad, Sindh, Pakistan. The museum was established in 1971 to collect, preserve, study, and exhibit the records of the cultural history of Sindh. It also sometimes hosts cultural fairs",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sindh_museum.JPG/375px-Sindh_museum.JPG"
     }
     ,
     {
-        name: "Hampi",
-        description: "An Architectuaral Marvel - Hampi is one of the world’s heritage sites as declared by UNESCO. Situated on the banks of Tungabhadra, the place is home to historical ruins and remains of the Vijayanagar kingdom. Rocks and stone carvings are proof of the skill and mastery of the artisans of the old era. It is the perfect tourist place for the history enthusiast.",
-        image: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/11/15/w1200X800/Highlight_on.jpg"
+        name: "Umerkot Museum",
+        description: "Umerkot Museum, is an archaeological museum situated inside the Umerkot Fort which is in Umerkot District, Sindh. It was inaugurated on 24 February 1968, and was relocated to its current building in July 2006. It consists of three galleries and two lobbies.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83jxXOSlcurGl8mBDaDa0NcTyRvnirMStTg&s"
     },
     {
-        name: "Andheri National Park",
-        description: "The Tadoba Andhari Tiger Reserve is a wildlife sanctuary in Chandrapur district of Maharashtra state in India. It is Maharashtra's oldest and largest national park. Created in 1955, the reserve includes the Tadoba National Park and the Andhari Wildlife Sanctuary. The reserve consists of 577.96 square kilometres of reserved forest and 32.51 square kilometres of protected forest. ",
-        image: "https://tigersempire.in/wp-content/uploads/2022/01/activities-tadoba-national-park.jpg"
+        name: "Umarkot Fort",
+        description: "Umarkot Fort, also called Amarkot, is a fort in Umerkot, Sindh. Emperor Akbar was born in Umarkot Fort when his father Humayun fled from the military defeats at the hands of Sher Shah Suri on 15 October 1542",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Umarkot_Fort_view3.JPG/375px-Umarkot_Fort_view3.JPG"
     },
     {
-        name: "Lavasa",
-        description: "Known as India's newest hill station, the Lavasa Corporation is constructing this private city. The city is a beautiful project, stylistically based on the Italian town Portofino. Spreading across 7 hills, covering an area of 25000 acres, Lavasa is a perfect blend of beauty and infrastructure",
-        image: "https://www.holidify.com/images/bgImages/LAVASA.jpg"
+        name: "Moomal Ji Mari",
+        description: "Moomal Ji Mari is an archaeological site in a village near Mirpur Mathelo in the Ghotki District of Sindh, Pakistan. It is located on a high mound at a distance of 8 km from Ghotki city, and is surrounded by a fort or fortress. The site is spread over an area of 3 acres.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Momal_ji_Mari_n.jpg/330px-Momal_ji_Mari_n.jpg"
     },
     {
         name: "Lonavla",
