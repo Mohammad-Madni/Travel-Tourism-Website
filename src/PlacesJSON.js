@@ -70,11 +70,11 @@ const PlacesJSON = [
             "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSpLAJrDF7bLeAk27Jy968ATkGC1zC-eYhHONquPpmqyX7tWkZwjIibHmWzi5M3hZSDWX4_9t7APuGo0fXcj4KBc_h1RVL5VXp1fmoY0A",
     },
     {
-        name: "City Palace",
+        name: "Shah Abdul Latif Bhittai",
         description:
-            "City Palace, Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty.",
+            "Shah Abdul Latif Bhittai, commonly known by the honorifics Lakhino Latif, Latif Ghot, Bhittai, and Bhit Jo Shah, was a Sindhi Sufi mystic and poet from Pakistan, widely considered to be the greatest poet of the Sindhi language.",
         image:
-            "https://camo.githubusercontent.com/59ccf8bc6ab1db45b2047d172b24c57699acb195896df9b5a23a1c41bcb88387/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36392f556461697075725f436974795f50616c6163652e6a7067",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfG7kVQqe3TIKrgdyla58EPuzX695IYXJIUQ&s",
     },
     {
         name: "Qutub Minar",
