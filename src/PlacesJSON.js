@@ -63,11 +63,11 @@ const PlacesJSON = [
             "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Back_View_from_Main_Road_-_Jamia_Mosque_%28Khudabad%29.jpg/180px-Back_View_from_Main_Road_-_Jamia_Mosque_%28Khudabad%29.jpg",
     },
     {
-        name: "Red Fort",
+        name: "Kirthar National Park",
         description:
-            "The Red Fort or Lal Qila is a historic fort in Old Delhi, Delhi in India that served as the main residence of the Mughal Emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12 May 1638, when he decided to shift his capital from Agra to Delhi.",
+            "The Kirthar National Park is situated in the Kirthar Mountains in Jamshoro District in Sindh, Pakistan. It was established in 1974 and encompasses over 3,087 km2 (1,192 sq mi), making it the third largest national park in Pakistan. Wildlife in the park comprises leopard, striped hyena, Indian wolves, honey badger, urial, chinkara gazelles and rare Sindh ibex.",
         image:
-            "https://camo.githubusercontent.com/ed99b6df3a6958acc7545327ede264c572ba03630f374c198b06b64c0aa2da95/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32612f44656c68695f666f72742e6a70672f3238383070782d44656c68695f666f72742e6a7067",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSpLAJrDF7bLeAk27Jy968ATkGC1zC-eYhHONquPpmqyX7tWkZwjIibHmWzi5M3hZSDWX4_9t7APuGo0fXcj4KBc_h1RVL5VXp1fmoY0A",
     },
     {
         name: "City Palace",
