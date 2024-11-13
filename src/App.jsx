@@ -7,6 +7,7 @@ import Profile from "./components/Profile";
 import ResponsiveAppBar from "./components/Navbar";
 import Register from "./components/Register";
 import Khairpur from "./components/States/Khairpur.jsx";
+import Jamshoro from "./components/States/Jamshoro.jsx";
 import Dadu from "./components/States/Dadu.jsx";
 import PlaceRoutes from "./routes/PlaceRoutes.jsx";
 import Places from "./components/Places";
@@ -53,7 +54,10 @@ function App() {
               <Larkana />
               <Footer />
             </Route>
-            
+            <Route exact path={"/home/Jamshoro"}>
+              <Jamshoro />
+              <Footer />
+            </Route>
             <Route exact path={"/home/Hyderabad"}>
               <Hyderabad />
               <Footer />

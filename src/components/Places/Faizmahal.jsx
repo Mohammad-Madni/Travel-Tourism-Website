@@ -7,7 +7,7 @@ export default function Faizmahal() {
     "http://heritage.eftsindh.com/sites/khairpur/images/thumb_faiz-mahal-03.jpg",
     "http://heritage.eftsindh.com/sites/khairpur/images/thumb_faiz-mahal-05.jpg",
   ];
-  const placeName = "Faizmahal";
+  const placeName = "Faiz Mahal";
   const stateName = "Khairpur";
   const placeImage = "https://heritage.eftsindh.com/sites/khairpur/images/faiz-mahal-01.jpg";
   return (

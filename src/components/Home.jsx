@@ -109,6 +109,16 @@ function Home() {
             }
             key={Math.random()}
           />
+          <Card
+            photoUrl={
+              "https://www.jamshorotimes.com/wp-content/uploads/2024/04/Indus-River-Jamshoro.jpg"
+            }
+            name={"Jamshoro"}
+            description={
+              "Jamshoro is a city and the capital of Jamshoro District, located in Sindh, Pakistan. It is on the right bank of the Indus River, approximately 18 km northwest of Hyderabad and 150 km northeast from the provincial capital of Sindh, Karachi. This city is popularly known as Education City."
+            }
+            key={Math.random()}
+          />
 
         </div>
       </div>

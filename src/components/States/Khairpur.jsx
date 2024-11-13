@@ -14,6 +14,7 @@ function Khairpur() {
       <StatePage
         stateName="Khairpur"
         stateImage={Khairpurimage}
+        visitLocationData={visitLocationData}
         stateDesc={
           <div className="place__desc">
             <span>
@@ -23,15 +24,6 @@ function Khairpur() {
               era. It is known for its cultural significance and the lush dates
               that grow in its fertile landscape.
             </span>
-            <p>
-              <hr />
-              The city is home to stunning palaces, including the majestic Faiz Mahal,
-              and is deeply rooted in Sufi culture, attracting visitors to its revered
-              shrines and festivals. Known for its abundant date orchards, 
-              Khairpur offers a unique blend of heritage, architecture, and 
-              natural beauty, making it a fascinating destination for those exploring
-              Sindh’s cultural landscape.
-            </p>
           </div>
         }
         visitLocationsData={visitLocationData}

@@ -1,18 +1,18 @@
 import React, { useEffect } from "react";
 import PlacePage from "../PlacePage";
-export function Munnar() {
+export function Faizpalace() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
   const images = [
-    "https://www.iwmbuzz.com/wp-content/uploads/2021/05/varanasi-the-country-of-gods-a-must-visit-pilgrimage-that-will-change-the-way-you-live.jpg",
-    "https://www.iwmbuzz.com/wp-content/uploads/2021/05/varanasi-the-country-of-gods-a-must-visit-pilgrimage-that-will-change-the-way-you-live.jpg",
-    "https://www.iwmbuzz.com/wp-content/uploads/2021/05/varanasi-the-country-of-gods-a-must-visit-pilgrimage-that-will-change-the-way-you-live.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fd/FaizMahal.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgbgtYABn_miTZGFKENhSbbuN1SmccbPVyw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGSRJf06Mz9ppGT6uMVint5Wx9PPyvSNhNMmiBjDVqSB9jxxc-sngFQ1G-WiXJe29ht4&usqp=CAU",
   ];
-  const placeName = "Munnar";
-  const stateName = "Kerala";
+  const placeName = "Faiz Mahal";
+  const stateName = "Khairpur";
   const placeImage =
-    "https://img.onmanorama.com/content/dam/mm/en/travel/getting-about-kerala/Idukki/images/2018/11/26/munnar-trip.jpg.transform/schema-16x9/image.jpg";
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVCHIQ8vqWc-Cmjv6HcLzKkcee5wDI-jm-1g&s";
   return (
     <div>
       <PlacePage
@@ -21,13 +21,12 @@ export function Munnar() {
         stateName={stateName}
         placeDesc={
           <div>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet alias
-            aperiam blanditiis temporibus rerum doloribus consequuntur hic
-            dolores, voluptatum perferendis nobis beatae, sapiente omnis
-            similique dolorum qui soluta voluptate maiores. Repudiandae
-            doloremque sequi atque beatae molestiae sint tempore aspernatur
-            cumque. Delectus nesciunt blanditiis laborum vel, aliquam
-            dignissimos quidem voluptas earum!
+            It was built by Mir Sohrab Khan in 1798 as the principal building serving
+            as the sovereign's court for the royal palace complex of Talpur monarchs 
+            of the Khairpur dynasty. Originally it included the ruler's chambers along
+            with 16 waiting rooms for courtiers and guest rooms for royal guests alongside
+            the durbar and dining halls. Additionally there was the Hathi Khana for 
+            the royal elephant and the horses stables where there is a mango orchard today.
           </div>
         }
         imagesUrl={images}

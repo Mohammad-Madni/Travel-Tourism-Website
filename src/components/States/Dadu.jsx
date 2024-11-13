@@ -7,7 +7,7 @@ function Dadu() {
   const name = "Dadu";
   const image =
     "https://res.cloudinary.com/www-travelpakistani-com/image/upload/w_900,h_360,c_fill,g_auto,q_30,dpr_1.0,f_auto/blogs/trkr2fcamtcthvs7pi2o.webp";
-  const arr = ["Gorakh Hill Station","Kirthar National Park","Khudabad Mosque","Laal Shahbaz Qalandar"];
+  const arr = ["Gorakh Hill Station","Khudabad Mosque","Laal Shahbaz Qalandar"];
   const visitLocationsData = PlacesJSON.filter((place) =>
     arr.includes(place.name)
   );

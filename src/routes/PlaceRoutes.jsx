@@ -6,7 +6,7 @@ import Faizmahal from "../components/Places/Faizmahal";
 import Shimla from "../components/Places/Shimla";
 import Kotdiji from "../components/Places/Kotdiji";
 import {
-  AmberFort,
+  Faizpalace,
   CityPalace,
   HawaPalace,
   Manali,
@@ -20,34 +20,22 @@ function PlaceRoutes() {
     <div>
       <Router>
         <Switch>
-          <Route exact path="/places/taj mahal">
-            <TajMahal />
-          </Route>
-          <Route exact path="/places/varnasi">
-            <Varnasi />
-          </Route>
           <Route exact path="/places/kotdiji">
             <Kotdiji />
           </Route>
-          <Route exact path="/places/faizmahal">
+          <Route exact path="/places/Faizmahal">
             <Faizmahal />
           </Route>
           <Route exact path="/places/shimla">
             <Shimla />
           </Route>
-          <Route exact path="/places/munnar">
-            <Munnar />
-          </Route>
           <Route exact path="/places/manali">
             <Manali />
-          </Route>
-          <Route exact path="/places/amber fort">
-            <AmberFort />
           </Route>
           <Route exact path="/places/hawa palace ">
             <HawaPalace />
           </Route>
-          <Route exact path="/places/lotus temple"></Route>
+          <Route exact path="/places/faiz mahal"></Route>
           <Route exact path="/places/humayun's tomb"></Route>
           <Route exact path="/places/qutub minar"></Route>
           <Route exact path="/places/city palace"><CityPalace/></Route>
