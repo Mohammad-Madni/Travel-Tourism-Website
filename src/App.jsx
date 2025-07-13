@@ -9,6 +9,7 @@ import Register from "./components/Register";
 import Khairpur from "./components/States/Khairpur.jsx";
 import Jamshoro from "./components/States/Jamshoro.jsx";
 import Dadu from "./components/States/Dadu.jsx";
+
 import PlaceRoutes from "./routes/PlaceRoutes.jsx";
 import Places from "./components/Places";
 import SavedPlaces from "./components/SavedPlaces";
